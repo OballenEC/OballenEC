@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OballenEC
 
-![image](https://github.com/OballenEC/OballenEC/assets/148361401/ce9c1518-d243-4138-a75c-199e081c63fb)
+![image](https://github.com/OballenEC/OballenEC/assets/148361401/68b72d78-ec50-4d79-b737-71fb4ff60fc9)
+
 
 🚀 Perfil Profesional 🚀
 ¡Hola! 👋 Soy graduado con título de Bachiller académico en Bogotá, formado con enseñanzas jesuitas. Me destaco por mi integridad, ética y un alto sentido de responsabilidad. 📚
