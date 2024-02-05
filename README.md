@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OballenEC
-
-![image](https://github.com/OballenEC/OballenEC/assets/148361401/68b72d78-ec50-4d79-b737-71fb4ff60fc9)
+<center>
+  <img src="![image](https://github.com/OballenEC/OballenEC/assets/148361401/68b72d78-ec50-4d79-b737-71fb4ff60fc9)" alt="Portada">
+</center>
 
 
 🚀 Perfil Profesional 🚀
