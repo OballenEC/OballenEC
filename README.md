@@ -1,68 +1,71 @@
-- 👋 Hi, I’m @OballenEC
-<center>
-  <img src="![image](https://github.com/OballenEC/OballenEC/assets/148361401/68b72d78-ec50-4d79-b737-71fb4ff60fc9)" alt="Portada">
-</center>
+# OballenEC | Engineering & Technology
 
+## 🇬🇧 English
 
-🚀 Perfil Profesional 🚀
-¡Hola! 👋 Soy graduado con título de Bachiller académico en Bogotá, formado con enseñanzas jesuitas. Me destaco por mi integridad, ética y un alto sentido de responsabilidad. 📚
+### Professional Profile
 
-🌐 Experiencia Académica y Profesional 🌐:
+I am a Telecommunications, Systems and Electronics Engineering student at the National Autonomous University of Mexico (UNAM), with practical experience in electrical maintenance, industrial environments, and technical troubleshooting.
 
-Comencé mi recorrido universitario en Administración, adquiriendo conocimientos valiosos en gestión empresarial. 💼
-Superé el examen de admisión de la UNAM, orientando mi carrera hacia la Informática. 💻
-Activo en el sistema SUAyED, mostrando compromiso con la autodisciplina y la búsqueda constante de conocimientos. 🎓
-En mi segundo semestre de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, consolidando habilidades clave. 🛠️
+My academic background and hands-on experience have motivated me to explore the intersection of **programming, electronics, telecommunications, and engineering systems**. I am currently developing my skills in Python, 3D modeling, and digital technologies, with an interest in applying them to practical engineering problems.
 
-🌟 Competencias y Habilidades 🌟:
+### Technical Interests & Areas of Development
 
-Creatividad, comunicación y empatía destacan en mi perfil. 💬
-Destreza en matemáticas, principiante en sistemas y redes computacionales. 📊
-Experiencia en call center, ventas y trabajos variados, aportando versatilidad y adaptabilidad. 🔄
-Competencia en inglés (Nivel B1/B2) respalda la comunicación internacional. 🌎
-Habilidades avanzadas en herramientas de oficina: Excel, PowerPoint, y Outlook. 📈
+* **Python Programming:** Developing programming fundamentals and exploring automation, data processing, and engineering applications.
+* **Electronics & Embedded Systems:** Interested in electronic circuits, microcontrollers, and the integration of hardware and software.
+* **Telecommunications & Networks:** Studying communication systems, computer networks, and related technologies.
+* **Automation & Control:** Exploring how programming and electronic systems can be used to monitor and control physical processes.
+* **3D Modeling & CAD:** Developing modeling skills for technical components, enclosures, and engineering applications.
+* **Engineering Projects:** Interested in building practical projects that combine software, electronics, and hardware.
 
-🎯 Objetivos Personales 🎯:
+### Professional Experience
 
-Apasionado por la tecnología, mi meta actual es especializarme en Inteligencia Artificial. 🤖
-Comprometido con el aprendizaje continuo y la excelencia en cada tarea emprendida. 🚀
-Historial académico y laboral respaldan mi capacidad para enfrentar desafíos con determinación y éxito. 🏆
+My experience in electrical maintenance and industrial work has provided practical exposure to technical equipment, troubleshooting procedures, electrical installations, and workplace safety practices.
 
-🌌 Intereses y Pasiones 🌌:
-Mis intereses abarcan desde la informática hasta el desarrollo innovador de Inteligencia Artificial. 🔍💡
+This background complements my engineering studies and helps me approach technical challenges with a practical perspective, attention to detail, and an appreciation for real-world operating conditions.
 
-¡Gracias por visitar mi perfil! ¡Estoy emocionado por las oportunidades tecnológicas que el futuro tiene reservadas! 🌟
+### Current Focus
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I am working toward strengthening my technical foundations through university coursework, independent study, and personal projects.
 
-🚀 Professional Profile 🚀
+This GitHub profile serves as a space to document my learning process, develop practical programming skills, and publish projects that demonstrate my progress in engineering and technology.
 
-Hello! 👋 I'm a graduate with a degree in Academic Baccalaureate from Bogotá, shaped by Jesuit teachings. I'm known for my integrity, ethics, and a strong sense of responsibility. 📚
+I am particularly interested in opportunities to connect software development with electronics, telecommunications, automation, and industrial applications.
 
-🌐 Academic and Professional Experience 🌐:
-Started my university journey in Management, acquiring valuable knowledge in business strategies. 💼
-Successfully passed the UNAM admission exam, pivoting my career towards Computer Science. 💻
-Actively engaged in the SUAyED system, demonstrating commitment to self-discipline and continuous learning. 🎓
-Currently in my second semester of Telecommunications, Systems, and Electronics Engineering, honing key skills. 🛠️
+---
 
-🌟 Skills and Competencies 🌟:
-Creativity, communication, and empathy are standout features in my profile. 💬
-Proficient in mathematics, with a beginner's grasp of systems and computer networks. 📊
-Experience in call centers, sales, and various jobs contribute to my versatility and adaptability. 🔄
-English proficiency (Level B1/B2) supports effective communication in international settings. 🌎
-Advanced skills in office tools: Excel, PowerPoint, and Outlook. 📈
+## 🇪🇸 Español
 
-🎯 Personal Objectives 🎯:
-Driven by a passion for technology, my current goal is to specialize in Artificial Intelligence. 🤖
-Committed to continuous learning and excellence in every undertaken task. 🚀
-Academic and professional history endorse my ability to face challenges with determination and success. 🏆
+### Perfil Profesional
 
-🌌 Interests and Passions 🌌:
-My interests span from computer science to innovative developments in Artificial Intelligence. 🔍💡
+Soy estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica en la Universidad Nacional Autónoma de México (UNAM). Cuento con experiencia práctica en mantenimiento eléctrico, entornos industriales y diagnóstico de problemas técnicos.
 
-Thanks for stopping by! I'm excited about the technological opportunities the future holds! 🌟
+Mi formación académica y experiencia laboral me han llevado a interesarme por la integración de **la programación, la electrónica, las telecomunicaciones y los sistemas de ingeniería**. Actualmente desarrollo mis habilidades en Python, modelado 3D y tecnologías digitales, con el objetivo de aplicarlas a problemas prácticos de ingeniería.
 
-<!---
-OballenEC/OballenEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Intereses Técnicos y Áreas de Desarrollo
+
+* **Programación en Python:** Desarrollo de fundamentos de programación y exploración de aplicaciones de automatización, procesamiento de datos y herramientas de ingeniería.
+* **Electrónica y Sistemas Embebidos:** Interés en circuitos electrónicos, microcontroladores e integración de hardware y software.
+* **Telecomunicaciones y Redes:** Formación en sistemas de comunicación, redes computacionales y tecnologías relacionadas.
+* **Automatización y Control:** Exploración de aplicaciones de programación y sistemas electrónicos para supervisar y controlar procesos físicos.
+* **Modelado 3D y CAD:** Desarrollo de habilidades de modelado para componentes técnicos, carcasas y aplicaciones de ingeniería.
+* **Proyectos de Ingeniería:** Interés en desarrollar proyectos prácticos que integren software, electrónica y hardware.
+
+### Experiencia Profesional
+
+Mi experiencia en mantenimiento eléctrico y trabajos industriales me ha permitido familiarizarme con equipos técnicos, procedimientos de diagnóstico, instalaciones eléctricas y prácticas de seguridad en el trabajo.
+
+Esta experiencia complementa mi formación como ingeniero y me permite abordar los problemas técnicos desde una perspectiva práctica, con atención al detalle y consideración de las condiciones reales de operación.
+
+### Enfoque Actual
+
+Actualmente me concentro en fortalecer mis fundamentos técnicos mediante mis estudios universitarios, el aprendizaje independiente y el desarrollo de proyectos personales.
+
+Este perfil de GitHub es un espacio para documentar mi proceso de aprendizaje, desarrollar habilidades prácticas de programación y publicar proyectos que reflejen mi progreso en ingeniería y tecnología.
+
+Me interesa especialmente integrar el desarrollo de software con la electrónica, las telecomunicaciones, la automatización y las aplicaciones industriales.
+
+---
+
+### Contact
+
+* **GitHub:** [OballenEC](https://github.com/OballenEC)
